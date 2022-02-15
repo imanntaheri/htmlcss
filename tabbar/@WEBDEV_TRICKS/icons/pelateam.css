@@ -1,0 +1,9 @@
+.pl.wallet{content: url("Wallet.svg");}
+.pl.user{content: url("User.svg");}
+.pl.cart{content: url("Cart.svg");}
+.pl.search{content: url("Search.svg");}
+
+.pd.wallet{content: url("WalletB.svg");}
+.pd.user{content: url("UserB.svg");}
+.pd.cart{content: url("CartB.svg");}
+.pd.search{content: url("SearchB.svg");}
